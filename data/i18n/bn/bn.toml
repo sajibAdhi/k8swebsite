@@ -68,6 +68,9 @@ other = "ইউটিউব"
 [conjunction_1]
 other = "এবং"
 
+[copy_sample_to_clipboard]
+other = "ক্লিপবোর্ডে {{ .filename }} কপি করুন"
+
 [cve_id]
 other = "CVE ID"
 
